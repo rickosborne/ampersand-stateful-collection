@@ -4,7 +4,7 @@ Collections that maintain their own state, aside from their children.
 
 ## Usage
 
-```
+```javascript
 var StatefulCollection = require('ampersand-stateful-collection');
 var State = require('ampersand-state');
 
